@@ -1,0 +1,12 @@
+# Telegram session files
+*.session
+*.session-journal
+
+# Logs
+*.log
+
+# history
+.history
+
+# Cache
+log.*
